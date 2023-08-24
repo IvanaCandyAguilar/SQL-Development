@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T19:12:16.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0jqvhqH6H7Qv48PMFvVO" version="21.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-24T19:34:15.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mfQv85ktLMn_r5rSOtqH" version="21.6.9" type="github" pages="5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="BS_STREEM">
     <mxGraphModel dx="2200" dy="2215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2375,7 +2375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PYzIyYu4Wf77fZyQqeM8" name="BD_HOSPITAL">
-    <mxGraphModel dx="1467" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2798,7 +2798,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RJ6ElXt1tUg8gDC1lPzl" name="BD_ADOPCION">
-    <mxGraphModel dx="1760" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
